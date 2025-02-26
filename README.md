@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Web Developer<br><br>👨‍💻 Skilled in HTML, CSS, JavaScript, and React also work on mogodb<br>🔧 Building an eCommerce project with Node.js & Express.js<br>🔑 Implementing JWT authentication & secure APIs<br>💳 Exploring payment gateway integrations (Stripe, PayPal)<br>📌 Passionate about scalable web applications & clean code
+🚀 Web Developer<br><br>👨‍💻 Skilled in HTML, CSS, JavaScript, and React also work on mogodb, Nodejs, Expressjs<br>🔧 Building an eCommerce project with Node.js & Express.js<br>🔑 Implementing JWT authentication & secure APIs<br>💳 Exploring payment gateway integrations (Stripe, PayPal)<br>📌 Passionate about scalable web applications & clean code
 
 
 ## 🌐 Socials:
